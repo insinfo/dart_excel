@@ -1,0 +1,10 @@
+name: dart_excel_example
+description: Demo 
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  
+dependencies:   
+  dart_excel:
+    path: ../
+

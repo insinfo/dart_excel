@@ -1,0 +1,17 @@
+name: dart_excel
+description: library for creating Excel docs.
+version: 1.0.0
+homepage: 
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies: 
+  xml: ">=5.1.0 <7.0.0"
+  archive: ">=3.1.2 <4.0.0"
+  image: ">=3.0.1 <5.0.0"
+  intl: ^0.18.0
+  crypto: ">=3.0.0 <4.0.0"
+  jiffy: ">=6.1.0 <7.0.0"
+        
+
