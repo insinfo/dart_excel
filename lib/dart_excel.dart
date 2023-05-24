@@ -6,8 +6,8 @@ import 'dart:convert';
 import 'dart:core';
 import 'dart:math';
 import 'dart:typed_data';
-import 'src/dart_excel/isaque/color.dart';
-import 'src/dart_excel/isaque/builtIn_properties.dart';
+import 'src/isaque/color.dart';
+import 'src/isaque/builtIn_properties.dart';
 
 import 'package:archive/archive.dart';
 import 'package:crypto/crypto.dart';
@@ -18,7 +18,7 @@ import 'package:intl/date_symbols.dart';
 import 'package:intl/intl.dart';
 import 'package:intl/number_symbols.dart';
 import 'package:intl/number_symbols_data.dart';
-import 'package:jiffy/jiffy.dart';
+import 'src/jiffy/jiffy.dart';
 
 import 'package:xml/xml.dart';
 
